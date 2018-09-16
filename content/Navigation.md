@@ -7,17 +7,13 @@
 ## pwd
 
 - pwd
-
 - pwd /xxx
 
 ## cd
 
 - cd : your home directory
-
 - cd - : the previous working directory
-
 - cd ~ : home directory of current user
-
 - cd ~user_name : home of user_name
 
 ## ls
